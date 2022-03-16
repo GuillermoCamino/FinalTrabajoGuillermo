@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/1DAM2021/Trim 2/finalevaluacion/finalT2/biblioteca.xsd">
+  <libro>
+    <foto>miki.webp</foto>
+   <sexo>Masculino</sexo>
+    <titulo>Miki con cara de sueño</titulo>
+    <autor>miki</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <sexo>Masculino</sexo>
+    <titulo>Senda vigilando sus patitas</titulo>
+    <autor fechaNacimiento="28/03/1936">senda</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+  <sexo>Masculino</sexo>
+    <titulo>Summer en el sofa</titulo>
+    <autor fechaNacimiento="28/03/1936">summer</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
